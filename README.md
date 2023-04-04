@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oladiy17
-- 👀 I’m interested in Grafik Design, Programming
+- 👀 I’m interested in Graphic Design, Programming
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
